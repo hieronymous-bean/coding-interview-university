@@ -244,7 +244,6 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
     I like using university lectures.
 
-
 ## Interview Process & General Interview Prep
 
 - [X] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
